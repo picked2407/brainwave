@@ -39,36 +39,14 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
-    url: "#features",
+    title: "Home",
+    url: "/",
   },
   {
     id: "1",
-    title: "Pricing",
-    url: "#pricing",
-  },
-  {
-    id: "2",
-    title: "How to use",
-    url: "#how-to-use",
-  },
-  {
-    id: "3",
-    title: "Roadmap",
-    url: "#roadmap",
-  },
-  {
-    id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
-  },
+    title: "About Us",
+    url: "#features",
+  }
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
@@ -244,16 +222,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Unlock a World of Opportunities at Your Fingertips.",
+    text: "Dive into a wealth of high-value resources and industry insights tailored to propel your ventures forward. Benefit from expert advice, strategic collaborations, and client acquisition opportunities within the club. Immerse yourself in a supportive environment where your success takes center stage.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Invest in Your Future with Capital Connections",
+    text: "For just $25, become a member today and gain investor access, presenting your ideas to discerning investors for potential funding. Receive personalized support from industry veterans, learn income diversification strategies, and discover life-changing opportunities.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -261,37 +239,12 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "Redefining Networking: Unleash the Power of Genuine Connections",
+    text: "At Capital Connections , we believe in quality over quantity. Experience networking that transcends mere business exchanges—forge genuine connections with successful individuals who share your passion and vision. Our community thrives on authentic relationships, ensuring that each connection is a meaningful step towards personal and professional growth.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
-  },
-  {
-    id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
-    backgroundUrl: "./src/assets/benefits/card-4.svg",
-    iconUrl: benefitIcon4,
-    imageUrl: benefitImage2,
-    light: true,
-  },
-  {
-    id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
-    backgroundUrl: "./src/assets/benefits/card-5.svg",
-    iconUrl: benefitIcon1,
-    imageUrl: benefitImage2,
-  },
-  {
-    id: "5",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
-    backgroundUrl: "./src/assets/benefits/card-6.svg",
-    iconUrl: benefitIcon2,
-    imageUrl: benefitImage2,
-  },
+  }
 ];
 
 export const socials = [
@@ -299,30 +252,12 @@ export const socials = [
     id: "0",
     title: "Discord",
     iconUrl: discordBlack,
-    url: "#",
-  },
-  {
-    id: "1",
-    title: "Twitter",
-    iconUrl: twitter,
-    url: "#",
+    url: "https://discord.gg/kZaWfZHRY3",
   },
   {
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
-  },
-  {
-    id: "3",
-    title: "Telegram",
-    iconUrl: telegram,
-    url: "#",
-  },
-  {
-    id: "4",
-    title: "Facebook",
-    iconUrl: facebook,
-    url: "#",
-  },
+    url: "https://www.instagram.com/capital.connectionss/reels/",
+  }
 ];
