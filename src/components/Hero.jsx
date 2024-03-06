@@ -29,8 +29,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-15 text-n-2 lg:mb-8">
-Elevate your professional journey by joining our exclusive community. Forge meaningful connections with successful individuals, opening doors to potential clients, partners, and investors. Experience elite networking that goes beyond traditional boundaries. - > Elevate your success journey by joining our exclusive community. Get in touch with meaningful connections, including successful traders of all kind, business/agency owners, biohackers. Open doors to potential clients, partners, and investors. Experience elite networking that goes beyond traditional boundaries.
-          </p>
+Elevate your success journey by joining our exclusive community. Get in touch with meaningful connections, including successful traders of all kind, business/agency owners, biohackers. Open doors to potential clients, partners, and investors. Experience elite networking that goes beyond traditional boundaries.          </p>
           <Button href="https://discord.gg/kZaWfZHRY3" white>
             Join Now
           </Button>
