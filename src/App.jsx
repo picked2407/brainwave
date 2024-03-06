@@ -15,7 +15,6 @@ const App = () => {
         <Header />
         <Hero />
         <Benefits />
-        <Collaboration />
         <Footer />
       </div>
 
