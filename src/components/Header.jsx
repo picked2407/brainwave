@@ -37,7 +37,7 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="block w-[12rem] xl:mr-8" href="#hero">
-          <img src={brainwave} width={190} height={40} alt="Brainwave" />
+          <img src="https://media.discordapp.net/attachments/1193183717548638301/1214844370919096330/image-removebg-preview_7.png?ex=65fa96fc&is=65e821fc&hm=fd02a42ad3f85d1949f41e97833dfb7486f0e4d8e8be61eebc272982ef855f35&=&format=webp&quality=lossless&width=446&height=452" width={90} height={40} alt="Brainwave" />
         </a>
 
         <nav
@@ -68,13 +68,13 @@ const Header = () => {
         </nav>
 
         <a
-          href="#signup"
+          href="https://discord.gg/kZaWfZHRY3"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
-          New account
+          Join Now
         </a>
-        <Button className="hidden lg:flex" href="#login">
-          Sign in
+        <Button className="hidden lg:flex" href="https://whop.com/capital-connections">
+          Purchase A Subscription
         </Button>
 
         <Button
