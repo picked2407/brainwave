@@ -222,8 +222,8 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Unlock a World of Opportunities at Your Fingertips.",
-    text: "Dive into a wealth of high-value resources and industry insights tailored to propel your ventures forward. Benefit from expert advice, strategic collaborations, and client acquisition opportunities within the club. Immerse yourself in a supportive environment where your success takes center stage.",
+    title: "Need help finding work or landing more clients?.",
+    text: "If you’re seeking opportunities in your field and feeling stuck or overlooked, we have the right connections for you. Our service is designed to bridge the gap between talent and opportunity by connecting you with an agency that specializes in your area of expertise. With our network at your disposal, we’re not just offering a chance we’re providing a direct pathway to meaningful work, aligning your skills with agencies that value what you bring to the table. Let us connect you to the next exciting step in your career.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -239,8 +239,8 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Redefining Networking: Unleash the Power of Genuine Connections",
-    text: "At Capital Connections , we believe in quality over quantity. Experience networking that transcends mere business exchanges—forge genuine connections with successful individuals who share your passion and vision. Our community thrives on authentic relationships, ensuring that each connection is a meaningful step towards personal and professional growth.",
+    title: "More about Capital Connections",
+    text: "Capital Connections was born from the belief that meaningful networks are essential for personal and professional growth. Founded by Miles Schleder, the company aims to help the hard part of networking by offering affordable solutions that connect individuals with successful peers easily. Instead of focusing on profits, they prioritize fostering genuine connections through events and networking channels. Their mission-driven approach has earned them a reputation for inclusivity and support, making Capital Connections a trusted ally for those seeking to expand their networks and seize opportunities for advancement.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
