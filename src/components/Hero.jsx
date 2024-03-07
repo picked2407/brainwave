@@ -29,8 +29,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-15 text-n-2 lg:mb-8">
-Welcome to capital connections. We believe networking is the most powerful tool, because it unlocks access to opportunities, exchange of knowledge, enhances, visibility and recognition, and provides guidance. By connecting with others, you can have access to a broader range of resources, accelerate, personal and professional growth, and strengthen relationships. All of these components increases the chances of success by lining the right people in opportunities, making network a valuable asset. “#
-          <Button href="https://discord.gg/kZaWfZHRY3" white>
+Welcome to capital connections. We believe networking is the most powerful tool, because it unlocks access to opportunities, exchange of knowledge, enhances, visibility and recognition, and provides guidance. By connecting with others, you can have access to a broader range of resources, accelerate, personal and professional growth, and strengthen relationships. All of these components increases the chances of success by lining the right people in opportunities, making network a valuable asset.           <Button href="https://discord.gg/kZaWfZHRY3" white>
             Join Now
           </Button>
         </div>
