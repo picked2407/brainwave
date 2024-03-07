@@ -128,6 +128,10 @@ export const collabContent = [
     id: "2",
     title: "Video Editors",
   },
+   {
+    id: "3",
+    title: "Video Editors",
+  },
 ];
 
 export const collabApps = [
