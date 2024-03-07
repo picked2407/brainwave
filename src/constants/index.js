@@ -236,7 +236,7 @@ export const benefits = [
   {
     id: "1",
     title: "Invest in Your Future with Capital Connections",
-    text: "For just $25, become a member today and gain access to the premium club. Get in touch with successful people, like investors/traders; agency owners and freelancers. Receive personalized support from industry veterans, learn income diversification strategies, and discover life-changing opportunities.",
+    text: "For just $25, become a member today and gain access to the Premium Club. Get in touch with successful people like: investors/traders, agency owners, and freelancers. Receive personalized support from industry veterans; learn income diversification strategies and discover life-changing opportunities.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -245,7 +245,7 @@ export const benefits = [
   {
     id: "2",
     title: "More about Capital Connections",
-    text: "Capital Connections was born from the belief that meaningful networks are essential for personal and professional growth. Founded by Miles Schleder, the company aims to help the hard part of networking by offering affordable solutions that connect individuals with successful peers easily. Instead of focusing on profits, they prioritize fostering genuine connections through events and networking channels. Their mission-driven approach has earned them a reputation for inclusivity and support, making Capital Connections a trusted ally for those seeking to expand their networks and seize opportunities for advancement.",
+    text: "Capital Connections was born from the belief that meaningful networks are essential for personal and professional growth. Founded by Miles Schleder, the company aims to guide and inform on the difficulties of networking by offering affordable solutions that connect individuals with successful peers easily. Instead of focusing on profits, they prioritize fostering genuine connections through events and networking channels. Their mission-driven approach has earned them a reputation for inclusivity and support, making Capital Connections a trusted ally for those seeking to expand their networks and seize opportunities for advancement.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
