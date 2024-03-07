@@ -110,11 +110,15 @@ export const roadmap = [
   },
 ];
 
+export const collabText =
+  "-";
+
 
 export const collabContent = [
   {
     id: "0",
     title: "Future/Option/Forex Traders",
+
   },
   {
     id: "1",
