@@ -111,7 +111,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "-";
+  "Come grow your network today";
 
 
 export const collabContent = [
@@ -131,6 +131,28 @@ export const collabContent = [
    {
     id: "3",
     title: "Web 2D and 3D Designers",
+  },
+   {
+    id: "4",
+    title: "Freelancers",
+  },
+   {
+    id: "5",
+    title: "Copywriters",
+  },
+   {
+    id: "6",
+    title: "Blockchain Engineers",
+  },
+   {
+    id: "7",
+    title: "Marketers",
+  },
+  {
+    id: "8",
+    title: "Social Media Influencer",
+    text: collabText,
+
   },
 ];
 
