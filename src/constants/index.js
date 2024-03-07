@@ -254,7 +254,6 @@ export const benefits = [
   id: "3",
   title: "Capital Connections Network",
   text: "Future/option/forex traders. Website Developers. Video Editors. Web 2D & 3D Designers. Freelancers. Copywriters. Blockchain Engineers. Marketers. Social Media Influencer. Come grow your network today",
-  imageUrl: "benefitImage2",
 }
 
 
