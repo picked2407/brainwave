@@ -227,8 +227,8 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Need help finding work or landing more clients?.",
-    text: "If you’re seeking opportunities in your field and feeling stuck or overlooked, we have the right connections for you. Our service is designed to bridge the gap between talent and opportunity by connecting you with an agency that specializes in your area of expertise. With our network at your disposal, we’re not just offering a chance we’re providing a direct pathway to meaningful work, aligning your skills with agencies that value what you bring to the table. Let us connect you to the next exciting step in your career.",
+    title: "Need help finding work or landing more clients?",
+    text: "If you're seeking opportunity in your field of work, but have felt overlooked and/or stuck, we have ideal connections for you Our service is designed to bridge the gap between talent and opportunity by connecting you with an agency that specializes in your area of expertise. With our network at your disposal, we’re not just offering a chance, we’re providing a direct pathway to meaningful work, aligning your skills with agencies that value what you bring to the table. Let us connect you to the next exciting step in your career.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
