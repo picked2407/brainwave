@@ -130,7 +130,7 @@ export const collabContent = [
   },
    {
     id: "3",
-    title: "Video Editors",
+    title: "Web 2D and 3D Designers",
   },
 ];
 
