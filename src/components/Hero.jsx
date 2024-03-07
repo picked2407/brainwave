@@ -23,7 +23,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-            It's not what you know,&nbsp;AI&nbsp;It's who you know  {` `}
+            It's not what you know,&nbsp;&nbsp;It's who you know  {` `}
             <span className="inline-block relative">
               <img
                 src={curve}
