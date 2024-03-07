@@ -110,14 +110,11 @@ export const roadmap = [
   },
 ];
 
-export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
 
 export const collabContent = [
   {
     id: "0",
     title: "Future/Option/Forex Traders",
-    text: collabText,
   },
   {
     id: "1",
