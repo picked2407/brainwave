@@ -251,7 +251,7 @@ export const benefits = [
     imageUrl: benefitImage2,
   },
   {
-    id: "2",
+    id: "3",
     title: "Capital Connections Network",
     text: 1. Future/option/forex traders
 2. Website Developers
@@ -264,7 +264,7 @@ export const benefits = [
 9. Social Media Influencers
 Come grow your network today",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
-    iconUrl: benefitIcon3,
+    iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
   }
 ];
