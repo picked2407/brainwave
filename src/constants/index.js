@@ -46,6 +46,11 @@ export const navigation = [
     id: "1",
     title: "About Us",
     url: "#features",
+  },
+  {
+    id: "2",
+    title: "Contact Us",
+    url: "#footer",
   }
 ];
 
