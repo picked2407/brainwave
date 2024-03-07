@@ -38,7 +38,7 @@ const Hero = () => {
             Welcome to capital connections. We believe networking is the most powerful tool, because it unlocks access to opportunities, exchange of knowledge, enhances, visibility and recognition, and provides guidance. By connecting with others, you can have access to a broader range of resources, accelerate, personal and professional growth, and strengthen relationships. All of these components increases the chances of success by lining the right people in opportunities, making network a valuable asset. “#
           </p>
           <Button href="/pricing" white>
-            Get started
+            Join Now
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
