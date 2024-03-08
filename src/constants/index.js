@@ -151,8 +151,6 @@ export const collabContent = [
   {
     id: "8",
     title: "Social Media Influencer",
-    text: collabText,
-
   },
 ];
 
