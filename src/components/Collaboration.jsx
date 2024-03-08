@@ -27,7 +27,7 @@ const Collaboration = () => {
             ))}
           </ul>
 
-          <Button href="/">Join Now</Button>
+          <Button href="https://discord.gg/7KvFHGQ44c">Join Now</Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">
