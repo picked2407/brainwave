@@ -75,7 +75,7 @@ const Header = () => {
           Join Now
         </a>
         <Button className="hidden lg:flex" href="https://whop.com/capital-connections">
-          Purchase A Subscription
+          Purchase Premium Club
         </Button>
 
         <Button
