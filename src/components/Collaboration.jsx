@@ -1,4 +1,4 @@
-import { brainwaveSymbol, check } from "../assets";
+vimport { brainwaveSymbol, check } from "../assets";
 import { collabApps, collabContent, collabText } from "../constants";
 import Button from "./Button";
 import Section from "./Section";
@@ -27,7 +27,7 @@ const Collaboration = () => {
             ))}
           </ul>
 
-          <Button href="https://discord.gg/7KvFHGQ44c">Join Now</Button>
+          <Button href="https://whop.com/capital-connections/">Purchase Premium Club</Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">
