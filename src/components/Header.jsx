@@ -37,7 +37,7 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
        <a className="block w-[12rem] xl:mr-8 flex items-center" href="#hero">
-  <img src="https://media.discordapp.net/attachments/1212400641175978054/1221829443664871614/IMG_5577.png?ex=66140057&is=66018b57&hm=2683bc2f193d219425edef2390a8ca0de45cf62bb1f09c1b8faffae7b0f097fc&=&format=webp&quality=lossless&width=431&height=437" width={40} height={40} alt="Capital Connections" style={{ marginRight: '0.5rem' }} />
+  <img src="https://media.discordapp.net/attachments/1212400641175978054/1230577013476167751/CC_Logo_Updated.jpg?ex=6633d327&is=66215e27&hm=fe172cea693b3bfd6982bf2a5ea7a08fa6db1edece99691f7f1fcf9e6f7f981e&=&format=webp&width=621&height=621" width={40} height={40} alt="Capital Connections" style={{ marginRight: '0.5rem' }} />
   <span>Capital Connections</span>
 </a>
 
