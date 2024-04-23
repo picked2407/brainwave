@@ -7,7 +7,7 @@ const Footer = () => {
     <Section crosses className="!px-0 !py-10" id="footer">
       <div className="container flex sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
         <p className="caption text-n-4 lg:block">
-          For inquiries, contact <a href="mailto:Capital.connectionssllc@gmail.com" className="text-white">Capital.connectionssllc@gmail.com</a>.
+          For inquiries, contact <a href="mailto:CapitalConnections0@gmail.com" className="text-white">CapitalConnections0@gmail.com</a>.
           <br />
           <span className="text-white">© {new Date().getFullYear()}.</span>
           <a href="https://sitecraftdynamics.com" className="text-white">Powered By SiteCraftDynamics</a>
