@@ -261,7 +261,7 @@ export const benefits = [
   {
     id: "1",
     title: "Invest in Your Future with Capital Connections",
-    text: "For just $25, become a member today and gain access to the Premium Club. Get in touch with successful people like: investors/traders, agency owners, and freelancers. Receive personalized support from industry veterans; learn income diversification strategies and discover life-changing opportunities.",
+    text: "For just $50, become a member today and gain access to the Premium Club. Get in touch with successful people like: investors/traders, agency owners, and freelancers. Receive personalized support from industry veterans; learn income diversification strategies and discover life-changing opportunities.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
